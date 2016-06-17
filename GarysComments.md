@@ -1,4 +1,4 @@
-# Comments from Gary Berg-Cross on semantic resources, needs et
+# Comments from Gary Berg-Cross on semantic resources, needs, etc
 
 ## From an email on 6/3/2016
 
